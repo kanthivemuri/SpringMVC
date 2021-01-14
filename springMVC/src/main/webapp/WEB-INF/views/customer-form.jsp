@@ -9,7 +9,7 @@
 <body>
 <h1>Registration Page</h1>
 <hr>
-<h2>Welcome to our page!</h2>
+<h2>Welcome to our page..!</h2>
 
 
 </body>
