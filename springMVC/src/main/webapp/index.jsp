@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<!--<a href = "http://localhost:8080/springMVC/home"> click here to go to welcome page</a> -->
+<a href = "http://localhost:8080/springMVC/home"> register</a>
+<a href = "http://localhost:8080/springMVC/login">Login</a>
+</body>
+</html>

@@ -4,13 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Welcome</title>
+<title>Registration page</title>
 </head>
 <body>
-<h1>Registration Page</h1>
+<h1> Successful registration</h1>
 <hr>
-<h2>Welcome to our page..!</h2>
-
-
+You are registered now.
 </body>
 </html>
