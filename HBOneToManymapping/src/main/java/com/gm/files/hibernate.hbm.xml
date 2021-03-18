@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<!-- Mapping properties 
+<hibernate-mapping>
+
+<class name="com.gm.model.customer" table="customer">
+
+
+      
+<id name= "id">
+
+</id>
+
+<set name = "addr" cascade="all">
+<key column="customer_id"/>
+<one-to-many class = "com.gm.model.address"/>
+</set>
+
+<property name="cname"></property>
+<property name="cemail"></property>
+<property name="cphone"></property>
+
+
+</class>
+</hibernate-mapping>
+
+
+-->
